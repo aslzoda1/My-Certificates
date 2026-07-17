@@ -95,6 +95,3 @@ Ushbu ilova — mening dasturlash yo'lidagi qat'iyatim va SoloLearn platformasid
 <p align="center">
 <b>💎 𝑲𝑬𝑬𝑷 𝑳𝑬𝑨𝑹𝑵𝑰𝑵𝑮 — 𝑻𝒉𝒆 𝑭𝒖𝒕𝒖𝒓𝒆 𝒊𝒔 𝑶𝒖𝒓𝒔 💎</b>
 </p>
-
-
-aslzoda
