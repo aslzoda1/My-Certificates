@@ -21,6 +21,7 @@
 </p>
 
 🚀 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑴𝒖𝒔𝒕𝒂𝒒𝒊𝒍 𝑹𝒊𝒗𝒐𝒋𝒍𝒂𝒏𝒊𝒔𝒉 𝑫𝒂𝒔𝒕𝒖𝒓𝒊
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/73b732f6-caa7-41d4-9552-67276d830bca" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
